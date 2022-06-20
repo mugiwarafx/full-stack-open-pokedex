@@ -1,6 +1,5 @@
 # 💙 Exercise 20 and 21, visit this repo:
-https://github.com/mugiwarafx/create-app
-
+https://github.com/mugiwarafx/fso-CICD
 
 
 
